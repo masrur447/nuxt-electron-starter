@@ -4,6 +4,12 @@
 
 Make sure to install the dependencies:
 
+#### Clone Repository
+
+```bash
+ git clone https://github.com/masrur447/nuxt-electron-starter.git
+```
+
 ```bash
 # npm
 npm install
